@@ -1,5 +1,5 @@
 import { HStack, Image } from "@chakra-ui/react";
-import logo from "../assets/cinema.svg";
+import logo from "../assets/logo.webp";
 import ColoModeSwitch from "./ColorModeSwitch";
 import ColorModeSwitch from "./ColorModeSwitch";
 
